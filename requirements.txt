@@ -3,6 +3,7 @@ deepface==0.0.75
 mediapipe==0.9.0.1
 numpy
 opencv_python_headless
+opencv-python-headless
 pandas
 streamlit_webrtc
 tensorflow
