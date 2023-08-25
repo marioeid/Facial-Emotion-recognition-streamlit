@@ -4,7 +4,7 @@ mediapipe==0.9.0.1
 numpy
 opencv_python_headless
 pandas
-streamlit_webrtc==0.47.0
-tensorflow==2.13.0
+streamlit_webrtc
+tensorflow
 tensorflow_intel
 opencv-python
