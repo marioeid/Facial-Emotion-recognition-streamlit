@@ -1,6 +1,6 @@
 av
 streamlit 
-mediapipe
+mediapipe==0.9.0.1
 deepface
 numpy
 opencv_python_headless
