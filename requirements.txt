@@ -7,3 +7,4 @@ pandas
 streamlit_webrtc==0.47.0
 tensorflow==2.13.0
 tensorflow_intel
+opencv-python
