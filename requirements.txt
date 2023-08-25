@@ -1,10 +1,9 @@
-av
-streamlit 
+av==10.0.0
+deepface==0.0.75
 mediapipe==0.9.0.1
-deepface
 numpy
-opencv_python_headless
+opencv_python_headless==4.8.0.76
 pandas
-streamlit_webrtc
-tensorflow
-tensorflow_intel
+streamlit_webrtc==0.47.0
+tensorflow==2.13.0
+tensorflow_intel==2.11.0
