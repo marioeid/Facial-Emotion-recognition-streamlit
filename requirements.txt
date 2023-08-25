@@ -1,6 +1,7 @@
 av
-deepface
+streamlit 
 mediapipe
+deepface
 numpy
 opencv_python_headless
 pandas
