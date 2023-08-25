@@ -1,0 +1,9 @@
+av
+deepface==0.0.75
+mediapipe==0.9.0.1
+numpy
+opencv_python_headless
+pandas
+streamlit_webrtc==0.47.0
+tensorflow==2.13.0
+tensorflow_intel==2.11.0
