@@ -1,8 +1,8 @@
 av
-deepface==0.0.75
-mediapipe==0.9.0.1
+deepface
+mediapipe
 numpy
-opencv-python-headless
+opencv_python_headless
 pandas
 streamlit_webrtc
 tensorflow
